@@ -1,2 +1,2 @@
 # Calculator
-Building a basic calculator using Java AWT
+This is a simple calculator application developed using Java AWT (Abstract Window Toolkit). It provides a graphical user interface with buttons for digits, basic arithmetic operations (addition, subtraction, multiplication, division, and modulus), and additional features like decimal input, negative numbers, backspace, and clear functionality. The calculator is event-driven and responds to user interactions using ActionListener and WindowAdapter. It's ideal for beginners looking to understand GUI development in Java. To run the application, compile the `MyCalc.java` file and execute it using the Java runtime environment.
